@@ -10,6 +10,8 @@ This is one of my first IoT projects that I made. Is a T-Shirt with some LEDs th
 4. Change Facebook Client ID (Server side)
 5. Run the server and access /tshirt/start URL
 
+![alt_tag](https://www.embarcados.com.br/wp-content/uploads/2018/12/image2-3.png)
+
 ## Wifi config 
 Client/Tshirt.ino
 ```
