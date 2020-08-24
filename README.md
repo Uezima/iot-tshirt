@@ -1,5 +1,5 @@
 # iot-tshirt
-T-shirt connected on the internet with leds that light up when someone likes a Facebook page
+This is one of my first IoT projects that I made. Is a T-Shirt with some LEDs that are joined in WEMOS D1 Mini board connected on an internet network. When someone clicks on a Like button from a pre-configured FanPage, a NodeJS server with MQTT protocol triggers the WEMOS D1 Mini and the LEDs light up. 
 
 ![alt tag](https://i.imgur.com/IwlVf1cl.jpg)
 
