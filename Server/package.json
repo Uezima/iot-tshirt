@@ -16,7 +16,7 @@
   "homepage": "https://bitbucket.org/Uezima/sandbox#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "mqtt": "^2.18.8",
     "request": "^2.83.0"
   }
